@@ -1,0 +1,6 @@
+Planet_name,distance,stellar_magnitude,planet_type,discovery_year,mass_multiplier,mass_wrt,radius_multiplier,radius_wrt,orbital_radius,orbital_period,eccentricity,detection_method
+14 Herculis b,58,6.61935,Gas Giant,2002,8.13881,Jupiter,1.12,Jupiter,2.773069,4.8,0.37,Radial Velocity
+AU Microscopii b,32,8.81,Neptune-like,2020,20.12,Earth,0.363,Jupiter,0.0645,0.023271732,0.19,Transit
+CD Ceti b,28,13.95,Super Earth,2020,3.95,Earth,1.82,Earth,0.0185,0.006297057,0,Radial Velocity
+K2-116 b,161,10.8,Terrestrial,2017,0.257,Earth,0.69,Earth,0.048,0.012867898,0.06,Transit
+LkCa 15 b,516,12.025,Unknown,2015,,,,,14.7,0.99931556,0,Direct Imaging
